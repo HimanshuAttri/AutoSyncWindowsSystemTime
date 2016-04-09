@@ -10,7 +10,7 @@ When my old laptop's CMOS  batteries drained on every startup my pc time needs t
 
 #Solution
 
-I created a .cmd file of a simple command
+I created a .cmd file containing following command
 
 
 
