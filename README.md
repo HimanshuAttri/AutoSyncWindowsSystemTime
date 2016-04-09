@@ -27,6 +27,4 @@ go to link
 
 http://windows.microsoft.com/en-in/windows/schedule-task#1TC=windows-7
 
-http://windows.microsoft.com/en-in/windows/schedule-task#1TC=windows-7
- 
 
