@@ -4,7 +4,7 @@
 
 #Whats The Problem?
 
-When my old laptop's CMOS bios batteries drained on every startup my pc time needs to be up-dated manually.
+When my old laptop's CMOS  batteries drained on every startup my pc time needs to be up-dated manually.
 
 
 
