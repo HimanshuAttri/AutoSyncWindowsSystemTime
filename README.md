@@ -4,7 +4,7 @@
 
 #Whats The Problem?
 
-When my old laptop's CMOS  batteries drained on every startup my pc time needs to be updated manually. Major problem with wrong time and date is chrome does not allow https usage and shows <strike>https</strike?
+When my old laptop's CMOS  batteries drained on every startup my pc time needs to be updated manually. Major problem with wrong time and date is chrome does not allow https usage and shows <strike>https</strike>
 
 
 
